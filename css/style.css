@@ -1,0 +1,23 @@
+.navbar {
+  background-color: rgba(255, 255, 255, 0.95); 
+  backdrop-filter: blur(10px);
+}
+
+
+.hero {
+  background-image: url('../src/img/gambar.png'); 
+  background-size: cover; 
+  background-position: center; 
+  height: 91vh; 
+} 
+
+.hero .card {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+} 
+
+#contact {
+  scroll-margin-top: 100px;
+  padding-bottom: 120px;
+}
