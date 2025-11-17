@@ -20,4 +20,8 @@
 #contact {
   scroll-margin-top: 100px;
   padding-bottom: 120px;
+} 
+
+.navbar-toggler-icon {
+  filter: invert(1);
 }
